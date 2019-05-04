@@ -28,6 +28,7 @@ For every pixel value within [0; 255], `First polynomial function` map it to ano
     <i>Orange line<br/>x is original intensity<br/>y = f(x) is intensity after applying the first polynomial function</i>
 </div>
 
+
 `First polynomial function`'s expression:
 <div style="text-align:center">
     <img src="examples/first_poly_exp.png" height="35" alt="first poly exp" />
@@ -43,9 +44,10 @@ For every pixel value within [0; 255], `Second polynomial function` map it to an
     <i>Orange line<br/>x is original intensity<br/>y = f(x) is intensity after applying the second polynomial function</i>
 </div>
 
+
 `Second polynomial function`'s expression:
 <div style="text-align:center">
-    <img src="examples/second_poly_exp.png" height="35" alt="first poly exp" />
+    <img src="examples/second_poly_exp.PNG" height="35" alt="first poly exp" />
 </div>
 
 ### <a name="Reduce-glare-filter"></a>3. Reduce-glare filter:
