@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using the metadata from this file.
+title: glare-reduction
+type: software
+authors:
+  - family-names: Tran
+    given-names: Duc Tho
+repository-code: https://github.com/ducthotran2010/glare-reduction
+date-released: 2019-05-04
+abstract: >
+  Implements the glare-reduction step of an image-processing pipeline for
+  recovering glare images before they are used in convolutional neural network
+  workflows.
+keywords:
+  - opencv
+  - image-processing
+  - opencv2
+  - pre-processing
+  - gamma-correction
+  - glare-reduction
+  - recovering-glare-images
+license: MIT
+preferred-citation:
+  type: manual
+  authors:
+    - family-names: Tran
+      given-names: Duc Tho
+  title: glare-reduction
+  date-published: 2019
+  url: https://github.com/ducthotran2010/glare-reduction
