@@ -75,3 +75,7 @@ For every pixel value within [0; 255], `Second polynomial function` map it to an
 <div style="text-align:center">
     <img src="examples/second_poly_exp.PNG" height="35" alt="first poly exp" />
 </div>
+
+## Citation
+
+If this project is useful in your research, please cite it using the metadata in [`CITATION.cff`](CITATION.cff) or the citation format shown on the GitHub repository page.

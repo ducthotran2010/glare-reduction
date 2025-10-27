@@ -21,10 +21,10 @@ keywords:
   - recovering-glare-images
 license: MIT
 preferred-citation:
-  type: manual
+  type: software
   authors:
     - family-names: Tran
       given-names: Duc Tho
-  title: glare-reduction
-  date-published: 2019
-  url: https://github.com/ducthotran2010/glare-reduction
+  title: Glare Reduction
+  date-released: 2019-05-04
+  repository-code: https://github.com/ducthotran2010/glare-reduction
